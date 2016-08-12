@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import {Link} from 'react-router';
 
 export default class Previewer extends Component {
   render() {
@@ -7,7 +6,6 @@ export default class Previewer extends Component {
       <div>Previewer</div>
       <div>
         <div>This is the previewer</div>
-        <div><Link to='/editor'>to editor</Link></div>
       </div>
     </div>;
   }

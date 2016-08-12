@@ -1,7 +1,7 @@
-Webpack Router Demo
+React Nested Router Demo
 ========================
 
-Put all settings in `webpack.config.js`
+Nested React Router.
 
 ```
 npm install -g webpack
